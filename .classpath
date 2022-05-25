@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="למידה מרחוק/java/גרוס/כד תשרי/Lesson_far1/src"/>
+	<classpathentry kind="src" path="למידה מרחוק/java/גרוס/ל תשרי/גב&apos; גרוס/src"/>
+	<classpathentry kind="src" path="למידה מרחוק/java/גרוס/ל תשרי/Lesson2/src"/>
+	<classpathentry kind="output" path="למידה מרחוק/java/גרוס/כד תשרי/Lesson_far1/bin"/>
+</classpath>
